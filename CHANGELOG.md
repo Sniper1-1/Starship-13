@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.4</summary>**
+
+ - Spawn tweaks.
+ - Minor cargo tweaks (like slightly moving a few crates so the cruiser fits through better).
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.3</summary>**
 
  - Space is so cool! Updated visuals outside of ship.
