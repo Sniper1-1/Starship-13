@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.5</summary>**
+
+ - New AI navigation stuff.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.4</summary>**
 
  - Spawn tweaks.
