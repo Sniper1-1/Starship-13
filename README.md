@@ -11,7 +11,9 @@ Adds an abandoned starship to Lethal Company. ([Discord link](https://discord.co
 > **POPULATION:** Radio silent <br>
 > **CONDITIONS:** An unidentified starship has been detected on the edge of the Thistle Nebula. <br>
 > **FAUNA:** Exotic wildlife in shipping.
-![Overview of hangar](https://imgur.com/ARIwiCw.png)
+![Overview of hangar 1](https://imgur.com/tQzIX8Z.png)
+![Overview of hangar 2](https://imgur.com/rVF6OAA.png)
+![Overview of hangar 3](https://imgur.com/Qix2KVW.png)
 
 </details>
 
