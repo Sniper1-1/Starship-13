@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.8</summary>**
+
+ - Speakers can randomly play static during eclipsed weather.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.7</summary>**
 
  - Icon updated.
