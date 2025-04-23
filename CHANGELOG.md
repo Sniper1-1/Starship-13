@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 0.1.9</summary>**
+
+ - Fixed things spawning and getting stuck inside cargo.
+ - Added more cargo.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.8</summary>**
 
  - Speakers can randomly play static during eclipsed weather.
