@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 0.1.10</summary>**
+
+ - Added Giant Sapsucker spawn.
+ - Changed box mesh.
+ - Lowered some slightly floating decor.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.9</summary>**
 
  - Fixed things spawning and getting stuck inside cargo.

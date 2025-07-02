@@ -1,12 +1,12 @@
 {
 	"name":"Starship_13",
-	"version_number": "0.1.9",
+	"version_number": "0.1.10",
 	"website_url":"https://github.com/Sniper1-1/Starship-13.git",
 	"description":"An abandoned starship.",
 	"dependencies":[
-		"IAmBatby-LethalLevelLoader-1.3.10",
-		"AudioKnight-StarlancerAIFix-3.8.0",
-		"JacobG5-JLL-1.7.7",
+		"IAmBatby-LethalLevelLoader-1.4.11",
+		"AudioKnight-StarlancerAIFix-3.11.1",
+		"JacobG5-JLL-1.9.8",
 		"WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1",
 		"mrov-AutoScroll-0.0.1"
 	]
