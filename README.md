@@ -21,6 +21,7 @@ Adds an abandoned starship to Lethal Company. ([Discord link](https://discord.co
 
 
 ## Credits
+- Zeekerss for developing the game.
 - [Water asset](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449)
 - Voxx for [TerraMesh](https://discord.com/channels/1168655651455639582/1303914349533990983) tool.
 - The developers of this mod's dependencies as it literally could not exist without them.
@@ -30,3 +31,4 @@ Adds an abandoned starship to Lethal Company. ([Discord link](https://discord.co
 - Debugging tools like [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [UnityExplorer](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/Yukieji_UnityExplorer/).
 - Thunderstore for hosting this mod as I wouldn't know how to distribute without it.
 - [Space skybox](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1&fov=80&nebulae=true&pointStars=true&resolution=1024&seed=66564767&stars=true&sun=false).
+- [Generic](https://thunderstore.io/c/lethal-company/p/Generic_GMD/), [Beaniebe](https://thunderstore.io/c/lethal-company/p/Beaniebe/), and Teserex for some of the shipping containers.

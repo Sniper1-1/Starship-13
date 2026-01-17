@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 1.0.0</summary>**
+
+ - Updated README.
+ - Visual enhancements.
+ - Unique orbit prefab.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.11</summary>**
 
  - Added Universal Radar as a dependency because I forgot to do it earlier.
